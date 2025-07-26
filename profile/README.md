@@ -24,7 +24,7 @@ The choice defines the outcome. The outcome defines the administrator.
 
 ## Current Projects
 
-### **Project: EVEN-IF**
+### **Project: EVEN?IF_**
 * **Status:** `ACTIVE ITERATION`
 * **Description:** A live testing environment designed to select the next system administrator (`root`). Candidates are integrated into a looping simulation and observed as they interact with the system's core entities and paradoxes. The project monitors each candidate's approach to the Janus Mandate.
 
